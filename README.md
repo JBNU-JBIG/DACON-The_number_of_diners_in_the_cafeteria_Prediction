@@ -1,5 +1,5 @@
 ## DACON-The_number_of_diners_in_the_cafeteria_Prediction
-데이콘 구내식당 식수 인원 예측 AI 경진대회
+[데이콘 구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/leaderboard)
 
 XG Boost , LightGBM, Randomforest, Kfold 등 다양한 모델들을 사용해보았지만 CatBoost의 성능이 가장 좋았다!
 
