@@ -3,7 +3,7 @@
 
 - XG Boost , LightGBM, Randomforest, Kfold 등 다양한 모델들을 사용해보았지만 CatBoost의 성능이 가장 좋았다!
 
-###Feature Engneering
+### Feature Engneering
 - 월(중식), 월(석식) : 일자 파생변수
 - 요일, 요일(석식) : 요일 파생변수
 - 일 : 일자 파생변수
